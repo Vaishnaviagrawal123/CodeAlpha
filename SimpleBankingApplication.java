@@ -1,5 +1,5 @@
 
-// task 1
+// task 2
 import java.util.Scanner;
 
 public class SimpleBankingApplication {
